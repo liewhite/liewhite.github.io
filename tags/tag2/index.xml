@@ -6,7 +6,16 @@
     <description>Recent content in tag2 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Dec 2021 14:45:08 +0800</lastBuildDate><atom:link href="http://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Dec 2021 14:46:05 +0800</lastBuildDate><atom:link href="http://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kkkkkkkkkkkk</title>
+      <link>http://example.org/post/kkkkkkkkkkkk/</link>
+      <pubDate>Sat, 11 Dec 2021 14:46:05 +0800</pubDate>
+      
+      <guid>http://example.org/post/kkkkkkkkkkkk/</guid>
+      <description>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxx</description>
+    </item>
+    
     <item>
       <title>Xxxxxxxx</title>
       <link>http://example.org/post/xxxxxxxx/</link>
